@@ -1,0 +1,17 @@
+{
+  "name": "riddler-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "firebase-admin": "^4.0.4",
+    "nconf": "^0.8.4",
+    "restify": "^4.3.0"
+  }
+}

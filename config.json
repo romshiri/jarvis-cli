@@ -1,0 +1,21 @@
+{
+  "botFramework": {
+    "appId": "a06dc061-a093-4d42-bfcf-63d9a1a0714a",
+    "appPassword": "mHirY60rqLbsPFmpn5fT3dC"
+  },
+  "firebase": {
+    "databaseURL": "https://riddlerbot-364a6.firebaseio.com",
+    "serviceAccount": {
+      "type": "service_account",
+      "project_id": "riddlerbot-364a6",
+      "private_key_id": "ad6d62660dad8f9b293da90df23aaa1de7b47878",
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQC5SEOZJt3WyqcS\nKA4WrnqIyJd6Hdoqz8JPLGeXHc+SB0M1E11mlBMaO3Fmh2gByqOaYT6wYDj5FZit\nWMgJZDk230d2dz0Vci2XIsKgAVj8cVbCjYYmstHzCrdxDRQGZpDu3vV+/jqgGeYU\nNqjnFYYplbhcYyA7IIpzdJv2Cc9m/Us5Iiy2bxLEVejrFLnhC+23SIaEQKT0oADu\n/BvKqzfE3z+cxTGm9azvBx3GG2K2DDHKqcZo4PLywRqQ8ORGPgSEtBqhWX2psUrb\nefBkMV1sR4FE1falkjZDydVkmXxADBoKzOS90qFQQmBGMr8zdz/BRRlmPff5wtnh\nDsBAPyKhAgMBAAECggEASgo7oR7r9WJkIxhIkP3GT5TBG3aEcSk2v8bB2px6DyPB\n0prbbxtrCseISG2BvX2JpS6JC5hYDAl6SoM45K/dQTU2bHu3uDM5TrUAS0pekfqE\nrhg57Ir25QV6Sr3sK6ae8iW8urPDH6lZzOgO1NFAHKwM0TZ3cclOKlcF3+sJq2CL\noTFtglglGCH6eCaN7ihOlTR21Q9rnAt+vE4rhGuTEwdr8J8vPBfLPeti2v6X2ggF\n42XWrtS+cx1jP9SW7nqJZNQQrXjFdAQpQjG1tjnPKP/OFuNRH8OnGeqIJNpkNvh3\npPUq/Hc9Bl9GfbUmTIxPBXKKALscbkHMMwM7yj+twQKBgQDzis3iPQeiXYhyt7v0\noEkh2WH/9a7A65vGv55Y53RZc5nJACYmTh4dxcd9NicWmcSeCxBqh3Sx0xaAz8KH\n+lSHBUxi0n0g3Cf/tyTWzfTDEs7snFfJA3GtcxS5tuPx9nN8Um0cgtmUT2Ope9Nk\nuF53e40PFJNEU/50moNvYleCKQKBgQDCwospVECWqxm4nH9LGy7h05FYVcstEfgv\nv0axm/P2fEHizVlR6SbIea6CIPQkdOHeOIUJIzmCVbHoqDURjjPDPUqr1oylt6dU\nZ73mUS4rzgeUaDK24ngNXCmd7Y4J0dMztwRqNREGOSltKicCfQa937/YoSqi+jZF\nYZtyXIHbuQKBgQCr3qcRJBTBJtTmcHe6WWuC8dBRPGbJSvyyNARhpWXcwtIioXJK\n0hI63Jq96HuJXZb+GbzKETHvVJKq8PPN1oHUj46qpvUbPYMU2YCr/sje6eUR4fup\npj6RM4fK0CDpXw19DQZneohmO+iPcQ1sJRi1pYGUxOZw7/3A+FINRw+OkQKBgQCG\nUUFEWZTJ1GrCxTuNAsxMdmrQ7ypWhQQTeek5aILSRVPzJQgq048px7GwkSWPVwTH\nC1fEu4RX/N3bxNYEq3vLdKPg6vDJAWXncjyncOlU0Jytn0cKlhmRrTQOdNz2rLzp\n95iV3s9E6XtGjEGnF67kmEFpF42eJM30/6IDNwVgEQKBgQDOGRN23jkTE4w3Kdpv\n5GlxyuU8AfVhq0Q0Td4DcqxHdVOQKeXlhj56WyI75aucel7rETEWr9mFxoVhaV/8\nTcKn+ED9IG7gcJzWbzad66jodcg78VxzXlmmkaotE6EXVx+UkABOg6odHcgTI84n\ni087nczZZ8gVmSigtpkqKLOprA==\n-----END PRIVATE KEY-----\n",
+      "client_email": "firebase-adminsdk-n67qz@riddlerbot-364a6.iam.gserviceaccount.com",
+      "client_id": "107495475459870734430",
+      "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+      "token_uri": "https://accounts.google.com/o/oauth2/token",
+      "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+      "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-n67qz%40riddlerbot-364a6.iam.gserviceaccount.com"
+    }
+  }
+}
